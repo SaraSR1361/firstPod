@@ -1,0 +1,27 @@
+{
+  "name": "firstPod",
+  "version": "0.1.0",
+  "summary": "this is the first cocoapod library for plugin in app",
+  "description": "this is the first cocoapod library for plugin in app, for adding style and project requirments",
+  "homepage": "https://github.com/SaraSR1361/firstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SaraSR1361": "sara.salar910@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/SaraSR1361/firstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "firstPod/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "firstPod/Assets/bella.jpg"
+    ]
+  }
+}
